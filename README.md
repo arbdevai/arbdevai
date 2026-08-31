@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,45:161b22,100:58a6ff&text=SAHAL%20ARBANI&fontColor=ffffff&fontSize=42&fontAlignY=36&animation=fadeIn&desc=arbdevai&descAlignY=58&descSize=16" />
-
-<a href="https://github.com/arbdevai">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&lines=Android+Tinkerer+%2F+AI+Builder;Building+native+apps+from+an+Android+phone;Termux+%2B+Linux+%2B+Firebase+%2B+React;Prototype.+Break.+Inspect+logs.+Ship." alt="Typing SVG" />
-</a>
+<img src="./assets/hero.svg" width="100%" alt="Sahal Arbani animated developer profile" />
 
 <br/>
 
-<a href="https://github.com/arbdevai?tab=followers"><img src="https://img.shields.io/github/followers/arbdevai?style=flat-square&logo=github&label=followers&color=21262d&labelColor=0d1117" /></a>
-<a href="https://github.com/arbdevai?tab=repositories"><img src="https://img.shields.io/badge/building-in%20public-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=arbdevai&style=flat-square&color=21262d&label=profile+views" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,js,react,vite,firebase,git,github,linux,bash&theme=dark&perline=10" alt="Core stack" />
+
+<br/><br/>
+
+<code>ANDROID NATIVE</code>&nbsp;&nbsp;<code>AI SYSTEMS</code>&nbsp;&nbsp;<code>WEB PRODUCTS</code>&nbsp;&nbsp;<code>AUTOMATION</code>
 
 </div>
 
@@ -18,91 +16,73 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="50%" valign="top">
 
-### About
+### SYSTEM / PROFILE
 
-I build practical software from an Android-first setup. My playground sits somewhere between native Android, AI tooling, Firebase backends, React interfaces, automation, networking, and Linux-on-phone workflows.
-
-```text
-focus     : android / ai / web / automation
-workspace : android + termux + linux
-approach  : prototype -> inspect -> iterate -> ship
-status    : always building something
+```yaml
+handle: arbdevai
+role: builder / tinkerer
+workspace: Android + Termux + Linux
+runtime: Java / JavaScript
+backend: Firebase
+frontend: React + Vite
+mode: prototype -> inspect -> iterate -> ship
 ```
 
 </td>
-<td width="44%" valign="top">
+<td width="50%" valign="top">
 
-### Current focus
+### NOW / BUILDING
 
 ```text
-01  Native Android tooling
-02  AI agents and integrations
-03  Firebase-backed applications
-04  React / Vite products
-05  Developer automation
-06  Network utilities
+[01] native Android tooling
+[02] AI agents + integrations
+[03] Firebase-backed products
+[04] React / Vite interfaces
+[05] developer automation
+[06] network utilities
 ```
 
 </td>
 </tr>
 </table>
 
-### Stack
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,java,js,react,vite,firebase,html,css,git,github,linux,bash&perline=12" alt="Tech stack" />
+<img src="./assets/terminal.svg" width="100%" alt="Animated terminal session" />
 
 </div>
 
 <br/>
 
-### Development environment
+### ACTIVITY / SIGNAL
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/Termux-0d1117?style=for-the-badge&logo=gnubash&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arbdevai&bg_color=00000000&color=8b949e&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb&hide_border=true&hide_title=true" alt="GitHub contribution activity" />
 
 </div>
 
 <br/>
 
-### GitHub activity
+### LAB / PRINCIPLE
 
-<div align="center">
+> **Build useful things with whatever hardware is available.**  
+> The workstation is optional. The ability to inspect a problem is not.
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arbdevai&theme=github_dark" alt="GitHub profile details" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=arbdevai&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
-
-</div>
-
-### Contribution stream
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arbdevai/arbdevai/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arbdevai/arbdevai/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arbdevai/arbdevai/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
+```text
+INPUT       rough idea / actual problem
+PROCESS     prototype -> break -> trace -> rebuild
+OUTPUT      software that survives outside the demo
+```
 
 <br/>
 
 <div align="center">
 
-<sub><code>arbdevai</code> / building useful things with whatever hardware is available.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0d1117,45:161b22,100:58a6ff" />
+<img src="./assets/footer.svg" width="100%" alt="arbdevai system status" />
 
 </div>
