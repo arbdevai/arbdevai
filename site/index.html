@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#070b12" />
+  <meta name="description" content="arbdevai — Android systems, AI tooling, Firebase, React, automation, and Linux-on-phone experiments." />
+  <title>arbdevai / system interface</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="noise"></div>
+  <header class="topbar">
+    <div class="brand"><span class="dot"></span><span>ARBDEVAI</span><span class="muted">/ NODE-01</span></div>
+    <nav>
+      <a href="#about">ABOUT</a><a href="#systems">SYSTEMS</a><a href="#lab">LAB</a><a href="https://github.com/arbdevai" target="_blank" rel="noreferrer">GITHUB</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="about">
+      <div class="hero-copy">
+        <div class="eyebrow">ANDROID-FIRST BUILDER / AI TOOLING / PRODUCT ENGINEERING</div>
+        <h1>SAHAL<br><span>ARBANI</span></h1>
+        <p>I build practical software from constrained hardware: native Android tools, AI agents, Firebase systems, React interfaces, automation, networking utilities, and Linux workflows from a phone.</p>
+        <div class="cta-row">
+          <a class="button primary" href="https://github.com/arbdevai" target="_blank" rel="noreferrer">OPEN GITHUB</a>
+          <button class="button" id="openCommand">COMMAND PALETTE <kbd>CTRL K</kbd></button>
+        </div>
+      </div>
+      <div class="signal-card" aria-label="system signal visualizer">
+        <div class="card-head"><span>LIVE SIGNAL</span><span class="live"><i></i>ONLINE</span></div>
+        <svg viewBox="0 0 600 300" role="img" aria-label="animated signal waveform">
+          <defs>
+            <linearGradient id="fade" x1="0" x2="1"><stop stop-color="#58a6ff" stop-opacity="0"/><stop offset=".5" stop-color="#58a6ff"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+          </defs>
+          <g opacity=".18" stroke="#8b949e"><path d="M0 50H600M0 100H600M0 150H600M0 200H600M0 250H600"/><path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300"/></g>
+          <path class="wave" d="M0 170 C55 168 70 165 95 160 C122 152 130 85 150 85 C172 85 176 232 197 232 C218 232 224 128 247 128 C275 128 276 177 304 177 C336 177 340 52 365 52 C391 52 393 218 419 218 C450 218 458 145 485 145 C510 145 518 165 600 162" fill="none" stroke="url(#fade)" stroke-width="4"/>
+          <circle class="pulse-dot" cx="365" cy="52" r="6" fill="#58a6ff"/>
+        </svg>
+        <div class="telemetry"><span>runtime <b>android</b></span><span>shell <b>termux</b></span><span>mode <b>ship</b></span></div>
+      </div>
+    </section>
+
+    <section class="grid" id="systems">
+      <article class="panel big"><div class="label">SYSTEM / PROFILE</div><pre><code>handle     arbdevai
+workspace  Android + Termux + Linux
+runtime    Java / JavaScript
+backend    Firebase
+frontend   React + Vite
+strategy   prototype > trace > iterate > ship</code></pre></article>
+      <article class="panel"><div class="label">CURRENT FOCUS</div><ul class="focus"><li><span>01</span>Native Android tooling</li><li><span>02</span>AI agents + integrations</li><li><span>03</span>Firebase-backed products</li><li><span>04</span>React / Vite interfaces</li><li><span>05</span>Developer automation</li><li><span>06</span>Network utilities</li></ul></article>
+      <article class="panel"><div class="label">STACK</div><div class="chips"><span>ANDROID</span><span>JAVA</span><span>JAVASCRIPT</span><span>REACT</span><span>VITE</span><span>FIREBASE</span><span>LINUX</span><span>BASH</span><span>GIT</span></div></article>
+    </section>
+
+    <section class="terminal" id="lab">
+      <div class="terminal-head"><span class="lights"><i></i><i></i><i></i></span><span>termux — arbdevai@android</span><span>secure session</span></div>
+      <div class="terminal-body" id="terminalBody"><div><b class="green">arbdevai@android</b>:<b class="blue">~/projects</b>$ boot --profile</div></div>
+    </section>
+
+    <section class="manifesto">
+      <div class="label">LAB / PRINCIPLE</div>
+      <blockquote>Build useful things with whatever hardware is available.</blockquote>
+      <p>The workstation is optional. The ability to inspect a problem is not.</p>
+    </section>
+  </main>
+
+  <footer><span>ARBDEVAI / SYSTEM NOMINAL</span><span>BUILD · TRACE · ITERATE · SHIP</span></footer>
+
+  <dialog id="palette">
+    <form method="dialog" class="palette-box">
+      <div class="palette-title">COMMAND PALETTE <button aria-label="close">ESC</button></div>
+      <input id="commandInput" autocomplete="off" placeholder="type: github, systems, lab, clear" />
+      <div class="commands"><span>github</span><span>systems</span><span>lab</span><span>clear</span></div>
+      <div id="commandOutput" class="command-output">ready.</div>
+    </form>
+  </dialog>
+
+  <script src="./app.js"></script>
+</body>
+</html>
