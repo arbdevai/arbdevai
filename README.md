@@ -1,98 +1,108 @@
 <div align="center">
 
-# 👋 Hi, I'm Sahal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,45:161b22,100:58a6ff&text=SAHAL%20ARBANI&fontColor=ffffff&fontSize=42&fontAlignY=36&animation=fadeIn&desc=arbdevai&descAlignY=58&descSize=16" />
 
-### `arbdevai` · Android Tinkerer · AI Builder · Full-Stack Experimenter
+<a href="https://github.com/arbdevai">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&lines=Android+Tinkerer+%2F+AI+Builder;Building+native+apps+from+an+Android+phone;Termux+%2B+Linux+%2B+Firebase+%2B+React;Prototype.+Break.+Inspect+logs.+Ship." alt="Typing SVG" />
+</a>
 
-**I build things mostly from an Android phone.**
+<br/>
 
-From native Android apps and AI-powered tools to Firebase backends, React websites, automation scripts, networking utilities, and hardware experiments.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=arbdevai&style=for-the-badge)](https://github.com/arbdevai)
-
-</div>
-
----
-
-## ⚡ What I'm Into
-
-- 🤖 AI-powered applications & agents
-- 📱 Native Android development
-- 🐧 Termux & Linux workflows
-- 🔥 Firebase backends
-- ⚛️ React + Vite
-- 🌐 Web applications
-- 🛠️ Automation & developer tools
-- 📡 Networking experiments
-- 🔌 Hardware tinkering
-
-## 🧰 Tech Playground
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+<a href="https://github.com/arbdevai?tab=followers"><img src="https://img.shields.io/github/followers/arbdevai?style=flat-square&logo=github&label=followers&color=21262d&labelColor=0d1117" /></a>
+<a href="https://github.com/arbdevai?tab=repositories"><img src="https://img.shields.io/badge/building-in%20public-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=arbdevai&style=flat-square&color=21262d&label=profile+views" />
 
 </div>
 
-## 🚧 Current Experiments
+<br/>
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+### About
+
+I build practical software from an Android-first setup. My playground sits somewhere between native Android, AI tooling, Firebase backends, React interfaces, automation, networking, and Linux-on-phone workflows.
 
 ```text
-📱 Native Android Apps
-🤖 AI Agents & AI-powered developer tools
-🌐 React / Firebase applications
-🧠 Gemini integrations
-📡 Networking utilities
-⚙️ Android automation
+focus     : android / ai / web / automation
+workspace : android + termux + linux
+approach  : prototype -> inspect -> iterate -> ship
+status    : always building something
 ```
 
-I like building tools that solve actual problems instead of collecting tutorial projects.
+</td>
+<td width="44%" valign="top">
 
-## 📊 GitHub Stats
+### Current focus
+
+```text
+01  Native Android tooling
+02  AI agents and integrations
+03  Firebase-backed applications
+04  React / Vite products
+05  Developer automation
+06  Network utilities
+```
+
+</td>
+</tr>
+</table>
+
+### Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arbdevai&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbdevai&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,js,react,vite,firebase,html,css,git,github,linux,bash&perline=12" alt="Tech stack" />
 
 </div>
 
-## 🧪 Build Philosophy
+<br/>
 
-```text
-Idea
- ↓
-Prototype
- ↓
-Break something
- ↓
-Read logs
- ↓
-Fix it
- ↓
-"LAH JALAN 🗿"
-```
-
-No giant workstation required.
-
-Sometimes an Android phone, Termux, GitHub, Firebase, and unreasonable curiosity are enough.
-
----
+### Development environment
 
 <div align="center">
 
-### ⚡ Currently building, breaking, fixing, and learning.
+<img src="https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Termux-0d1117?style=for-the-badge&logo=gnubash&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 
-`Android` · `AI` · `Web` · `Firebase` · `Termux` · `Automation`
+</div>
+
+<br/>
+
+### GitHub activity
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arbdevai&theme=github_dark" alt="GitHub profile details" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=arbdevai&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+
+</div>
+
+### Contribution stream
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arbdevai/arbdevai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arbdevai/arbdevai/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arbdevai/arbdevai/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub><code>arbdevai</code> / building useful things with whatever hardware is available.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0d1117,45:161b22,100:58a6ff" />
 
 </div>
