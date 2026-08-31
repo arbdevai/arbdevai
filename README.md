@@ -62,7 +62,7 @@ mode: prototype -> inspect -> iterate -> ship
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arbdevai&bg_color=00000000&color=8b949e&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb&hide_border=true&hide_title=true" alt="GitHub contribution activity" />
+<img width="100%" src="./assets/signal.svg" alt="Self-hosted animated activity signal" />
 
 </div>
 
